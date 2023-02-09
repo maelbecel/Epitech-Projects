@@ -301,8 +301,8 @@
     <!-- ===========================================  B-PSU-210 ============================================ -->
     <!--  -->
     <tr>
-        <td rowspan="2" align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Unix">B-PSU-210</a></td>
-        <td rowspan="2" align="center"><img src="Assets/d.png" width="75%"></td>
+        <td rowspan="1" align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Unix">B-PSU-210</a></td>
+        <td rowspan="1" align="center"><img src="Assets/d.png" width="75%"></td>
         <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Unix/minishell2">Minishell 2</a></td>
         <td align="center">57,5%</td>
         <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
