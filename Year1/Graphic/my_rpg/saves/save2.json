@@ -1,0 +1,24 @@
+{
+    "new": 0,
+    "class": "mage",
+    "health": 3000,
+    "strength": 50,
+    "speed": 43,
+    "xp": 400000,
+    "defense": 120,
+    "point_stat": 3,
+    "posx": 1424,
+    "posy": 728,
+    "map": 1,
+<<<<<<< HEAD
+    "quests": [4],
+    "end_quests": [0],
+    "inventory": ["baguette","apple","apple","apple","apple"]
+}
+=======
+    "quests": [0],
+    "end_quests": [0],
+    "inventory": ["baguette","apple","apple","apple","apple"]
+>>>>>>> 64fb6be9f9ab68f903c353f5c619e13ab3682a64
+
+}

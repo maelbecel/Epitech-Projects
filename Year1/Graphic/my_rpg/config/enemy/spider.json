@@ -1,0 +1,9 @@
+{
+    "image": "assets/monsters/spider.png",
+    "name": "Spider",
+    "exp": 400,
+    "damage": 8,
+    "life": 60,
+    "text": ["tsssss","tss","tssssssssssssss"],
+    "loot": ["eye2","ruby","ruby"]
+}

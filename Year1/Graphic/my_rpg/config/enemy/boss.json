@@ -1,0 +1,9 @@
+{
+    "image": "assets/monsters/boss.png",
+    "name": "The Boss",
+    "exp": 10000,
+    "damage": 5,
+    "life": 100,
+    "text": ["HEHEHEHA","DIE !"],
+    "loot": ["the_seed"]
+}

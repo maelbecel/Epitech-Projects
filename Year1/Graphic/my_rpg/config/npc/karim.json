@@ -1,0 +1,9 @@
+{
+    "pos": [865, 1500],
+    "map": 1,
+    "merchant": 1,
+    "quest": 0,
+    "want": [["biere",2], ["apple",3]],
+    "sell": [["potion",1], ["gold",3]],
+    "text": "Do you want something?"
+}
