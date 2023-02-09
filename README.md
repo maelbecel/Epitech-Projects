@@ -27,12 +27,12 @@
         <td rowspan="16" align="center"><img src="Assets/b.png" width="75%"></td>
         <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Cpool%20part1/Day1">Day 1</a></td>
         <td align="center">100%</td>
-        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+        <td align="center"><img src="Assets/bash.png" width="10%" ></td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Cpool%20part1/Day2">Day 2</a></td>
         <td align="center">100%</td>
-        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+        <td align="center"><img src="Assets/bash.png" width="10%" ></td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Cpool%20part1/Day3">Day 3</a></td>
@@ -186,6 +186,36 @@
         <td rowspan="1" align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Elementary">B-CPE-201</a></td>
         <td rowspan="1" align="center"><img src="Assets/a.png" width="75%"></td>
         <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Elementary/Corewar">Corewar</a></td>
+        <td align="center">100%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <!--  -->
+    <!-- ===========================================  B-MUL-100 ============================================ -->
+    <!--  -->
+    <tr>
+        <td rowspan="2" align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Graphic">B-MUL-100</a></td>
+        <td rowspan="2" align="center"><img src="Assets/c.png" width="75%"></td>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Elementary/my_hunter">MyHunter</a></td>
+        <td align="center">100%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Elementary/my_runner">MyRunner</a></td>
+        <td align="center">100%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <!--  -->
+    <!-- ===========================================  B-MUL-200 ============================================ -->
+    <!--  -->
+    <tr>
+        <td rowspan="2" align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Graphic">B-MUL-200</a></td>
+        <td rowspan="2" align="center"><img src="Assets/a.png" width="75%"></td>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Elementary/my_defender">MyDefender</a></td>
+        <td align="center">100%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Elementary/my_rpg">MyRPG</a></td>
         <td align="center">100%</td>
         <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
     </tr>
