@@ -129,6 +129,21 @@
         <td align="center">81.3%</td>
         <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
     </tr>
+    <!--  -->
+    <!-- ===========================================  B-DOP-200 ============================================ -->
+    <!--  -->
+    <tr>
+        <td rowspan="2" align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/DevOps">B-DOP-200</a></td>
+        <td rowspan="2" align="center"><img src="Assets/b.png" width="25%"></td>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/DevOps/Chocolatine">Chocolatine</a></td>
+        <td align="center">90%</td>
+        <td align="center"><img src="Assets/git.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/DevOps/Popeye">Popeye</a></td>
+        <td align="center">100%</td>
+        <td align="center"><img src="Assets/docker.png" width="10%" ></td>
+    </tr>
     </tbody>
 </table>
 
