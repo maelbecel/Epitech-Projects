@@ -1,0 +1,905 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.2.1
+# Built for x86_64-pc-linux-gnu
+# Copyright (C) 1988-2016 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Fri May 20 22:37:46 2022
+
+# Variables
+
+# 'override' directive
+GNUMAKEFLAGS := 
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# automatic
+?F = $(notdir $?)
+# environment
+DESKTOP_SESSION = ubuntu-wayland
+# default
+.SHELLFLAGS := -c
+# makefile (from 'Makefile', line 69)
+OBJ = $(SRC:.c=.o)
+# environment
+XDG_SESSION_CLASS = user
+# makefile (from 'Makefile', line 21)
+SRC = $(SOURCES)main.c $(SOURCES)op.c $(SOURCES)draw_arene.c $(SOURCES)errors.c $(SOURCES)param.c $(SOURCES)check_champion.c $(SOURCES)print_arene.c $(SOURCES)get_option.c $(SOURCES)verif_champion.c $(SOURCES)init_champ.c $(SOURCES)init_arene.c $(SOURCES)int_to_hexa.c $(SOURCES)fill_champ.c $(SOURCES)action.c $(SOURCES)my_calloc.c $(SOURCES)init_prog.c $(SOURCES)get_data.c $(SOURCES)endian.c $(SOURCES)win.c $(SOURCES)ftoa.c $(SOURCES)$(ACTION)add.c $(SOURCES)$(ACTION)aff.c $(SOURCES)$(ACTION)and.c $(SOURCES)$(ACTION)and_adress.c $(SOURCES)$(ACTION)fork.c $(SOURCES)$(ACTION)ld.c $(SOURCES)$(ACTION)ldi.c $(SOURCES)$(ACTION)ldi_actions.c $(SOURCES)$(ACTION)lldi_actions.c $(SOURCES)$(ACTION)lfork.c $(SOURCES)$(ACTION)live.c $(SOURCES)$(ACTION)lld.c $(SOURCES)$(ACTION)lldi.c $(SOURCES)$(ACTION)or.c $(SOURCES)$(ACTION)or_adress.c $(SOURCES)$(ACTION)st.c $(SOURCES)$(ACTION)sti.c $(SOURCES)$(ACTION)sub.c $(SOURCES)$(ACTION)xor.c $(SOURCES)$(ACTION)xor_adress.c $(SOURCES)$(ACTION)zjmp.c $(SOURCES)event.c $(SOURCES)draw_ui.c
+# environment
+XDG_SESSION_TYPE = wayland
+# environment
+VSCODE_LOG_NATIVE = false
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+IM_CONFIG_PHASE = 1
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+XAUTHORITY = /run/user/1000/.mutter-Xwaylandauth.0S8AM1
+# environment
+GDMSESSION = ubuntu-wayland
+# environment
+XMODIFIERS = @im=ibus
+# makefile
+CURDIR := /home/mbecel/delivery/elementary/Corewar/Corewar/bonus
+# makefile
+SHELL = /bin/sh
+# makefile (from 'Makefile', line 73)
+RM = rm -f
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+_ = /usr/bin/gnome-session
+# makefile (from 'Makefile', line 15)
+CFLAGS = -Wall -Wextra -Werror $(INCLUDE)
+# environment
+TEAMSFX_YO_ENV_CHECKER_ENABLE = true
+# environment
+JOURNAL_STREAM = 8:58097
+# environment
+XDG_CONFIG_DIRS = /etc/xdg/xdg-ubuntu-wayland:/etc/xdg
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST :=  Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+GIO_LAUNCHED_DESKTOP_FILE = /usr/share/applications/code.desktop
+# environment
+USERNAME = mbecel
+# makefile (from 'Makefile', line 17)
+SOURCES = src/
+# environment
+MAKELEVEL := 0
+# environment
+XDG_DATA_DIRS = /usr/share/ubuntu-wayland:/home/mbecel/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+# environment
+DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/1000/bus
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+MANAGERPID = 3156
+# environment
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-a4bcd4e7-2f74-47a2-aaed-e2ba3cbf2427.sock
+# environment
+LC_NAME = fr_FR.UTF-8
+# environment
+VSCODE_CWD = /home/mbecel
+# default
+MAKE_HOST := x86_64-pc-linux-gnu
+# environment
+PATH = /home/mbecel/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+# makefile (from 'Makefile', line 77)
+BOLD = "\e[1m"
+# environment
+GJS_DEBUG_OUTPUT = stderr
+# environment
+SESSION_MANAGER = local/mbecel:@/tmp/.ICE-unix/3307,unix/mbecel:/tmp/.ICE-unix/3307
+# environment
+XDG_RUNTIME_DIR = /run/user/1000
+# environment
+SSH_AGENT_LAUNCHER = gnome-keyring
+# environment
+TEAMSFX_PREVIEW = false
+# environment
+XDG_MENU_PREFIX = gnome-
+# environment
+VSCODE_LOG_STACK = false
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+INVOCATION_ID = be9af21669e44fcbb9c8b124bada4d3c
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell archives jobserver output-sync check-symlink load
+# makefile (from 'Makefile', line 75)
+ECHO = /bin/echo -e
+# makefile (from 'Makefile', line 118)
+NB = 1
+# environment
+XDG_SESSION_DESKTOP = ubuntu-wayland
+# environment
+SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
+# environment
+GIO_LAUNCHED_DESKTOP_FILE_PID = 55334
+# automatic
+%F = $(notdir $%)
+# environment
+DISPLAY = :0
+# environment
+GNOME_SETUP_DISPLAY = :1
+# environment
+VSCODE_PIPE_LOGGING = true
+# makefile (from 'Makefile', line 78)
+RED = "\e[31m"
+# environment
+PWD = /home/mbecel/delivery/elementary/Corewar/Corewar/bonus
+# default
+.LOADED := 
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = ubuntu:GNOME
+# makefile (from 'Makefile', line 79)
+GREEN = "\e[32m"
+# environment
+GTK_MODULES = gail:atk-bridge
+# makefile (from 'Makefile', line 80)
+LIGHT_BLUE = "\e[94m"
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+HOME = /home/mbecel
+# makefile (from 'Makefile', line 65)
+SRC_COUNT = $(words $(SRC))
+# environment
+VSCODE_CODE_CACHE_PATH = /home/mbecel/.config/Code/CachedData/dfd34e8260c270da74b5c2d86d61aee4b6d56977
+# environment
+LOGNAME = mbecel
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# automatic
++F = $(notdir $+)
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# environment
+GNOME_DESKTOP_SESSION_ID = this-is-deprecated
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# environment
+LC_TIME = fr_FR.UTF-8
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# environment
+QT_IM_MODULE = ibus
+# environment
+SHLVL = 0
+# makefile (from 'Makefile', line 81)
+WHITE = "\e[1;37m"
+# environment
+GNOME_SHELL_SESSION_MODE = ubuntu
+# default
+MAKE_VERSION := 4.2.1
+# environment
+USER = mbecel
+# environment
+LC_MONETARY = fr_FR.UTF-8
+# makefile
+.DEFAULT_GOAL := all
+# makefile (from 'Makefile', line 10)
+INCLUDE = -I ../include/ -I ../include/lib/ -L ../lib/  -lm -lmy -lmyprintf -lcsfml-graphics -lcsfml-window -lcsfml-system
+# environment
+XDG_CURRENT_DESKTOP = Unity
+# makefile (from 'Makefile', line 8)
+NAME = corewar
+# makefile (from 'Makefile', line 19)
+ACTION = actions/
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+LC_TELEPHONE = fr_FR.UTF-8
+# default
+MAKE_COMMAND := make
+# default
+.VARIABLES := 
+# automatic
+*F = $(notdir $*)
+# makefile (from 'Makefile', line 71)
+TEMPFILES = *~ *vgcore* 
+# environment
+VSCODE_IPC_HOOK = /run/user/1000/vscode-896a2768-1.66.2-main.sock
+# environment
+TEAMSFX_BICEP_ENV_CHECKER_ENABLE = true
+# makefile
+MAKEFLAGS = pqrR
+# environment
+MFLAGS = -pqrR
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# environment
+GDK_BACKEND = x11
+# environment
+LC_PAPER = fr_FR.UTF-8
+# environment
+QT_ACCESSIBILITY = 1
+# default
+MAKEFILES := 
+# environment
+LC_NUMERIC = fr_FR.UTF-8
+# automatic
+<F = $(notdir $<)
+# environment
+LC_MEASUREMENT = fr_FR.UTF-8
+# environment
+LC_ALL = C
+# makefile (from 'Makefile', line 76)
+DEFAULT = "\033[00m"
+# environment
+GJS_DEBUG_TOPICS = JS ERROR;JS LOG
+# automatic
+^F = $(notdir $^)
+# environment
+TEAMSFX_GENERATOR_ENV_CHECKER_ENABLE = true
+# default
+SUFFIXES := 
+# environment
+WAYLAND_DISPLAY = wayland-0
+# environment
+CHROME_DESKTOP = code-url-handler.desktop
+# default
+.INCLUDE_DIRS = /usr/include /usr/local/include /usr/include
+# environment
+LC_IDENTIFICATION = fr_FR.UTF-8
+# default
+.RECIPEPREFIX := 
+# environment
+LC_ADDRESS = fr_FR.UTF-8
+# environment
+TEAMSFX_ROOT_DIRECTORY = ${homeDir}/TeamsApps
+# environment
+VSCODE_PID = 55334
+# environment
+LANG = C
+# variable set hash-table stats:
+# Load=126/1024=12%, Rehash=0, Collisions=24/301=8%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 66310, inode 3965454): 8 files, no impossibilities.
+# src (device 66310, inode 3965455): 46 files, no impossibilities so far.
+
+# 54 files, no impossibilities in 2 directories.
+
+# Implicit Rules
+
+%.o: %.c
+ 
+#  recipe to execute (from 'Makefile', line 118):
+			@$(eval NB=$(shell echo $$(($(NB)+1))))
+			@gcc -c -o $@ $^ $(CFLAGS) && python3 ../build/build.py $< $(NB) \
+			$(SRC_COUNT)
+
+# 1 implicit rules, 0 (0.0%) terminal.
+
+# Files
+
+# Not a target:
+src/actions/ldi.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/actions/fork.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+src/errors.o: src/errors.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'src/errors'
+#  Last modified 2022-05-19 16:14:38.502252892
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 118):
+			@$(eval NB=$(shell echo $$(($(NB)+1))))
+			@gcc -c -o $@ $^ $(CFLAGS) && python3 ../build/build.py $< $(NB) \
+			$(SRC_COUNT)
+
+# Not a target:
+src/my_calloc.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-18 13:40:11.693044102
+#  File has been updated.
+#  Successfully updated.
+
+all: corewar
+#  Phony target (prerequisite of .PHONY).
+#  Command line target.
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/79=0%
+
+# Not a target:
+src/actions/sub.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+.PHONY: all re clean fclean debug
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/actions/or.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+src/init_arene.o: src/init_arene.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'src/init_arene'
+#  Last modified 2022-05-19 16:14:39.046284172
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 118):
+			@$(eval NB=$(shell echo $$(($(NB)+1))))
+			@gcc -c -o $@ $^ $(CFLAGS) && python3 ../build/build.py $< $(NB) \
+			$(SRC_COUNT)
+
+src/main.o: src/main.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'src/main'
+#  Last modified 2022-05-19 16:14:38.262239092
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 118):
+			@$(eval NB=$(shell echo $$(($(NB)+1))))
+			@gcc -c -o $@ $^ $(CFLAGS) && python3 ../build/build.py $< $(NB) \
+			$(SRC_COUNT)
+
+# Not a target:
+src/win.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-20 22:03:05.784039398
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+src/verif_champion.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-18 15:07:42.52736246
+#  File has been updated.
+#  Successfully updated.
+
+src/fill_champ.o: src/fill_champ.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'src/fill_champ'
+#  Last modified 2022-05-19 16:14:39.198292913
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 118):
+			@$(eval NB=$(shell echo $$(($(NB)+1))))
+			@gcc -c -o $@ $^ $(CFLAGS) && python3 ../build/build.py $< $(NB) \
+			$(SRC_COUNT)
+
+# Not a target:
+src/endian.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-18 13:40:11.693044102
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+src/action.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-19 16:59:14.967076132
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+src/ftoa.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+src/print_arene.o: src/print_arene.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'src/print_arene'
+#  Last modified 2022-05-19 16:14:38.726265772
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 118):
+			@$(eval NB=$(shell echo $$(($(NB)+1))))
+			@gcc -c -o $@ $^ $(CFLAGS) && python3 ../build/build.py $< $(NB) \
+			$(SRC_COUNT)
+
+# Not a target:
+src/actions/xor_adress.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/actions/aff.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/actions/lld.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-18 23:57:12.229434687
+#  File has been updated.
+#  Successfully updated.
+
+# makefile (from 'Makefile', line 95)
+debug: CFLAGS += -g3 -pg
+debug: all
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+# variable set hash-table stats:
+# Load=1/32=3%, Rehash=0, Collisions=0/2=0%
+
+src/param.o: src/param.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'src/param'
+#  Last modified 2022-05-19 16:14:38.578257262
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 118):
+			@$(eval NB=$(shell echo $$(($(NB)+1))))
+			@gcc -c -o $@ $^ $(CFLAGS) && python3 ../build/build.py $< $(NB) \
+			$(SRC_COUNT)
+
+# Not a target:
+src/get_option.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-18 15:07:42.52736246
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+src/init_prog.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-18 13:40:11.693044102
+#  File has been updated.
+#  Successfully updated.
+
+corewar: src/main.o src/op.o src/draw_arene.o src/errors.o src/param.o src/check_champion.o src/print_arene.o src/get_option.o src/verif_champion.o src/init_champ.o src/init_arene.o src/int_to_hexa.o src/fill_champ.o src/action.o src/my_calloc.o src/init_prog.o src/get_data.o src/endian.o src/win.o src/ftoa.o src/actions/add.o src/actions/aff.o src/actions/and.o src/actions/and_adress.o src/actions/fork.o src/actions/ld.o src/actions/ldi.o src/actions/ldi_actions.o src/actions/lldi_actions.o src/actions/lfork.o src/actions/live.o src/actions/lld.o src/actions/lldi.o src/actions/or.o src/actions/or_adress.o src/actions/st.o src/actions/sti.o src/actions/sub.o src/actions/xor.o src/actions/xor_adress.o src/actions/zjmp.o src/event.o src/draw_ui.o
+#  Implicit rule search has not been done.
+#  Last modified 2022-05-19 17:57:16.396339555
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/79=0%
+#  recipe to execute (from 'Makefile', line 86):
+			@echo
+			@($(ECHO) $(BOLD) $(GREEN)✓$(LIGHT_BLUE) \
+			"SRC files sucessfully build. "$(DEFAULT))
+			@make -C ../lib/my/ --no-print-directory
+			@make -C ../lib/myprintf/ --no-print-directory
+			@gcc -o $(NAME) $(OBJ) $(INCLUDE) \
+			&& $(ECHO) $(BOLD) $(GREEN)"\n► BUILD SUCCESS !"$(DEFAULT) \
+			|| ($(ECHO) $(BOLD) $(RED)"\n► BUILD FAILED"$(DEFAULT) && exit 1)
+
+# Not a target:
+src/draw_ui.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+src/init_champ.o: src/init_champ.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'src/init_champ'
+#  Last modified 2022-05-19 16:14:38.966279572
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 118):
+			@$(eval NB=$(shell echo $$(($(NB)+1))))
+			@gcc -c -o $@ $^ $(CFLAGS) && python3 ../build/build.py $< $(NB) \
+			$(SRC_COUNT)
+
+# Not a target:
+src/actions/ld.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+src/check_champion.o: src/check_champion.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'src/check_champion'
+#  Last modified 2022-05-19 16:14:38.654261633
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 118):
+			@$(eval NB=$(shell echo $$(($(NB)+1))))
+			@gcc -c -o $@ $^ $(CFLAGS) && python3 ../build/build.py $< $(NB) \
+			$(SRC_COUNT)
+
+# Not a target:
+src/errors.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-18 13:40:11.693044102
+#  File has been updated.
+#  Successfully updated.
+
+fclean: clean
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 106):
+			@make -C ../lib/myprintf/ fclean --no-print-directory
+			@make -C ../lib/my/ fclean --no-print-directory
+			@$(RM) $(NAME)
+			@$(RM) $(OBJ)
+			@$(RM) $(TEMPFILES)
+			@($(ECHO) $(BOLD) $(GREEN)✓$(LIGHT_BLUE)" Fclean SRC "$(DEFAULT))
+
+# Not a target:
+src/actions/or_adress.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+src/draw_arene.o: src/draw_arene.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'src/draw_arene'
+ 
+#  Last modified 2022-05-19 16:14:38.434248982
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 118):
+			@$(eval NB=$(shell echo $$(($(NB)+1))))
+			@gcc -c -o $@ $^ $(CFLAGS) && python3 ../build/build.py $< $(NB) \
+			$(SRC_COUNT)
+
+# Not a target:
+src/actions/lldi_actions.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/init_arene.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-18 13:40:11.693044102
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+src/main.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-19 13:18:42.973995555
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+src/actions/and.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/fill_champ.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-18 17:26:31.17545163
+#  File has been updated.
+#  Successfully updated.
+
+src/get_data.o: src/get_data.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'src/get_data'
+#  Last modified 2022-05-19 16:14:39.506310623
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 118):
+			@$(eval NB=$(shell echo $$(($(NB)+1))))
+			@gcc -c -o $@ $^ $(CFLAGS) && python3 ../build/build.py $< $(NB) \
+			$(SRC_COUNT)
+
+src/op.o: src/op.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'src/op'
+#  Last modified 2022-05-19 16:14:38.326242772
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 118):
+			@$(eval NB=$(shell echo $$(($(NB)+1))))
+			@gcc -c -o $@ $^ $(CFLAGS) && python3 ../build/build.py $< $(NB) \
+			$(SRC_COUNT)
+
+# Not a target:
+src/print_arene.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-18 15:07:42.52736246
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+src/int_to_hexa.o: src/int_to_hexa.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'src/int_to_hexa'
+#  Last modified 2022-05-19 16:14:39.126288772
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 118):
+			@$(eval NB=$(shell echo $$(($(NB)+1))))
+			@gcc -c -o $@ $^ $(CFLAGS) && python3 ../build/build.py $< $(NB) \
+			$(SRC_COUNT)
+
+re:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 114):
+			@make fclean --no-print-directory
+			@make --no-print-directory
+
+# Not a target:
+src/param.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-18 15:07:42.52736246
+#  File has been updated.
+#  Successfully updated.
+
+clean:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 99):
+			@make -C ../lib/my/ clean --no-print-directory
+			@make -C ../lib/myprintf/ clean --no-print-directory
+			@$(RM) $(OBJ)
+			@$(RM) $(TEMPFILES)
+			@($(ECHO) $(BOLD) $(GREEN)✓$(LIGHT_BLUE)" Clean SRC "$(DEFAULT))
+
+# Not a target:
+src/init_champ.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-18 13:40:11.693044102
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+src/actions/ldi_actions.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+src/my_calloc.o: src/my_calloc.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'src/my_calloc'
+#  Last modified 2022-05-19 16:14:39.362302342
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 118):
+			@$(eval NB=$(shell echo $$(($(NB)+1))))
+			@gcc -c -o $@ $^ $(CFLAGS) && python3 ../build/build.py $< $(NB) \
+			$(SRC_COUNT)
+
+# Not a target:
+src/actions/lldi.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/check_champion.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-18 15:07:42.52736246
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+src/actions/sti.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/actions/zjmp.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# 'override' directive
+src/win.o: .SHELLSTATUS := 0
+src/win.o: src/win.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'src/win'
+#  Last modified 2022-05-19 16:14:39.666319823
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# automatic
+# @ := src/win.o
+# automatic
+# % := 
+# automatic
+# * := src/win
+# automatic
+# + := src/win.c
+# automatic
+# | := 
+# automatic
+# < := src/win.c
+# automatic
+# ^ := src/win.c
+# automatic
+# ? := src/win.c
+# variable set hash-table stats:
+# Load=9/32=28%, Rehash=0, Collisions=94/91=103%
+#  recipe to execute (from 'Makefile', line 118):
+			@$(eval NB=$(shell echo $$(($(NB)+1))))
+			@gcc -c -o $@ $^ $(CFLAGS) && python3 ../build/build.py $< $(NB) \
+			$(SRC_COUNT)
+
+src/verif_champion.o: src/verif_champion.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'src/verif_champion'
+#  Last modified 2022-05-19 16:14:38.894275432
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 118):
+			@$(eval NB=$(shell echo $$(($(NB)+1))))
+			@gcc -c -o $@ $^ $(CFLAGS) && python3 ../build/build.py $< $(NB) \
+			$(SRC_COUNT)
+
+# Not a target:
+src/draw_arene.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-19 16:13:52.93563579
+#  File has been updated.
+#  Successfully updated.
+
+src/endian.o: src/endian.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'src/endian'
+#  Last modified 2022-05-19 16:14:39.590315453
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 118):
+			@$(eval NB=$(shell echo $$(($(NB)+1))))
+			@gcc -c -o $@ $^ $(CFLAGS) && python3 ../build/build.py $< $(NB) \
+			$(SRC_COUNT)
+
+src/action.o: src/action.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'src/action'
+#  Last modified 2022-05-19 17:57:16.088323749
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 118):
+			@$(eval NB=$(shell echo $$(($(NB)+1))))
+			@gcc -c -o $@ $^ $(CFLAGS) && python3 ../build/build.py $< $(NB) \
+			$(SRC_COUNT)
+
+# Not a target:
+src/actions/and_adress.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/actions/st.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/actions/add.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/actions/lfork.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/get_data.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-18 13:40:11.693044102
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+src/op.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-18 13:40:11.693044102
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+src/actions/live.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+ 
+
+# Not a target:
+src/event.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+src/get_option.o: src/get_option.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'src/get_option'
+#  Last modified 2022-05-19 16:14:38.818271062
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 118):
+			@$(eval NB=$(shell echo $$(($(NB)+1))))
+			@gcc -c -o $@ $^ $(CFLAGS) && python3 ../build/build.py $< $(NB) \
+			$(SRC_COUNT)
+
+# Not a target:
+src/int_to_hexa.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-18 13:40:11.693044102
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+src/actions/xor.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+src/init_prog.o: src/init_prog.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: 'src/init_prog'
+#  Last modified 2022-05-19 16:14:39.438306714
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 118):
+			@$(eval NB=$(shell echo $$(($(NB)+1))))
+			@gcc -c -o $@ $^ $(CFLAGS) && python3 ../build/build.py $< $(NB) \
+			$(SRC_COUNT)
+
+# files hash-table stats:
+# Load=72/1024=7%, Rehash=0, Collisions=16/194=8%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 145 / storage = 1917 B / avg = 13 B
+# current buf: size = 8162 B / used = 1917 B / count = 145 / avg = 13 B
+
+# strcache performance: lookups = 190 / hit rate = 23%
+# hash-table stats:
+# Load=145/8192=2%, Rehash=0, Collisions=7/190=4%
+# Finished Make data base on Fri May 20 22:37:47 2022
+
+ 

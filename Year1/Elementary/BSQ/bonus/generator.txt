@@ -1,0 +1,66 @@
+/*
+** EPITECH PROJECT, 2021
+** star.c
+** File description:
+** star.c
+*/
+
+#include <stdlib.h>
+#include <stdio.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <fcntl.h>
+#include "my.h"
+
+
+int main(int argc, char **argv)
+{
+    if (argv[1][0] == '-' && argv[1][1] == 'h'){
+        my_putstr("USAGE:\n./generate x y z percent\n\n");
+        my_putstr("int x = lenth in horizontal\nint y = lenth in vertical\nint z = lenth in zedical\nfloat percent = percent of '.' in the map\n");
+        return 1;
+    }
+    int x = my_getnbr(argv[1]);
+    int y = my_getnbr(argv[2]);
+    int z = my_getnbr(argv[3]);
+    float percent = atof(argv[4]);
+    char *file = "map_generated.txt";
+    char *buffer = malloc(sizeof(char)*((x*(y+1)+1)*z + y)*10);
+    long long i = 0;
+    int fd;
+
+    if(x <= 0 || y <= 0 || z <= 0){
+        my_putstr("Invalid size");
+        return 84;
+    }
+
+    while (i < my_strlen(argv[2])){
+        buffer[i] = argv[2][i];
+        i++;
+    }
+    buffer[i] = '\n';
+    i++;
+    for(int dim = 0; dim < z; dim++){
+        for(int line = 0; line < y; line++){
+            for(int row = 0; row < x; row++){
+                if (rand() % 1000000 < percent * 10000)
+                    buffer[i] = '.';
+                else
+                    buffer[i] = 'o';
+                i++;
+            }
+            buffer[i] = '\n';
+            i++;
+        }
+        buffer[i-1] = 'd';
+        buffer[i] = '\n';
+        i++;
+    }
+    buffer[i] = '\0';
+    fd = creat(file, S_IRWXU);
+    write(fd, buffer, my_strlen(buffer));
+    close(fd);
+    return 0;
+}
+
+//   gcc -o generate generator.c -I include/ -L lib/my/ -lmy
