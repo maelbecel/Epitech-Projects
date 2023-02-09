@@ -142,7 +142,7 @@
     <tr>
         <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/DevOps/Popeye">Popeye</a></td>
         <td align="center">100%</td>
-        <td align="center"><img src="Assets/docker.png" width="10%"><img src="Assets/java.png" width="10%" ><img src="Assets/python.png" width="10%" ><img src="Assets/javascript.png" width="10%" ></td>
+        <td align="center"><img src="Assets/dock.png" width="10%"><img src="Assets/java.png" width="10%" ><img src="Assets/python.png" width="10%" ><img src="Assets/javascript.png" width="10%" ></td>
     </tr>
     </tbody>
 </table>
