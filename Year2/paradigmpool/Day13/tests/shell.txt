@@ -1,0 +1,7 @@
+push 9
+push 60
+display
+add
+display
+jej
+push jej

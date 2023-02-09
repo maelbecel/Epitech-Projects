@@ -1,0 +1,10 @@
+*.h
+
+ex01.c
+ex02.c
+ex03.c
+ex05.c
+player.c
+
+a.out
+.vscode

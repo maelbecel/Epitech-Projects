@@ -1,0 +1,40 @@
+hi
+picture:./tests/superStory.txt
+nothing special
+just a little bit of fun
+enjoy
+and please don't forget to vote
+and please don't forget to vote
+and comment
+and if you have any questions
+just ask
+and if you have any suggestions
+just tell me
+and if you have any problems
+just tell me
+and if you have any ideas
+picture:../files/ham.txt
+just tell me
+and if you have any comments
+just tell me
+and if you have any complaints
+just tell me
+and if you have any suggestions
+picture:../files/alien.txt
+just tell me
+and if you have any problems
+just tell me
+and if you have any ideas
+picture:superStory.txt
+jej
+and if you have any comments
+just tell me jej
+and if you have any complaints
+jej
+and if you have any suggestions
+jejej
+and if you have any problems
+jej
+and if you have any ideas
+jej
+CU
