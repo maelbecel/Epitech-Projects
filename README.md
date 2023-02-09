@@ -27,12 +27,12 @@
         <td rowspan="16" align="center"><img src="Assets/b.png" width="75%"></td>
         <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Cpool%20part1/Day1">Day 1</a></td>
         <td align="center">100%</td>
-        <td align="center"><img src="Assets/bash.png" width="10%" ></td>
+        <td align="center"><img src="Assets/bash.png" width="25%" ></td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Cpool%20part1/Day2">Day 2</a></td>
         <td align="center">100%</td>
-        <td align="center"><img src="Assets/bash.png" width="10%" ></td>
+        <td align="center"><img src="Assets/bash.png" width="25%" ></td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Cpool%20part1/Day3">Day 3</a></td>
@@ -217,6 +217,43 @@
     <tr>
         <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Elementary/my_rpg">MyRPG</a></td>
         <td align="center">100%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <!--  -->
+    <!-- ===========================================  B-AIA-200
+    ============================================ -->
+    <!--  -->
+    <tr>
+        <td rowspan="1" align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/IA">B-AIA-200</a></td>
+        <td rowspan="1" align="center"><img src="Assets/b.png" width="75%"></td>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/IA/Need4stek">Need4Stek</a></td>
+        <td align="center">83.3%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <!--  -->
+    <!-- ===========================================  B-MAT-100
+    ============================================ -->
+    <!--  -->
+    <tr>
+        <td rowspan="4" align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Maths">B-MAT-100</a></td>
+        <td rowspan="4" align="center"><img src="Assets/c.png" width="75%"></td>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Maths/101Pong">101Pong</a></td>
+        <td align="center">93.5%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Maths/102Architect">102Architect</a></td>
+        <td align="center">19.6%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Maths/103cypher">103Cipher</a></td>
+        <td align="center">61.3%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Maths/104intersections">104Intersections</a></td>
+        <td align="center">67.4%</td>
         <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
     </tr>
     </tbody>
