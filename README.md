@@ -144,6 +144,51 @@
         <td align="center">100%</td>
         <td align="center"><img src="Assets/dock.png" width="20%"><img src="Assets/jar.png" width="10%" > <img src="Assets/python.png" width="10%" > <img src="Assets/javascript.png" width="10%" ></td>
     </tr>
+    <!--  -->
+    <!-- ===========================================  B-CPE-110 ============================================ -->
+    <!--  -->
+    <tr>
+        <td rowspan="3" align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Elementary">B-CPE-110</a></td>
+        <td rowspan="3" align="center"><img src="Assets/a.png" width="75%"></td>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Elementary/BSQ">BSQ</a></td>
+        <td align="center">100%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Elementary/Pushswap">Pushswap</a></td>
+        <td align="center">66.7%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Elementary/Antman">Antman</a></td>
+        <td align="center">15.1%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <!--  -->
+    <!-- ===========================================  B-CPE-200 ============================================ -->
+    <!--  -->
+    <tr>
+        <td rowspan="2" align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Elementary">B-CPE-200</a></td>
+        <td rowspan="2" align="center"><img src="Assets/b.png" width="75%"></td>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Elementary/Dante">Dante's star</a></td>
+        <td align="center">70%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Elementary/Lem-in">Lem-in</a></td>
+        <td align="center">86.7%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <!--  -->
+    <!-- ===========================================  B-CPE-201 ============================================ -->
+    <!--  -->
+    <tr>
+        <td rowspan="1" align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Elementary">B-CPE-201</a></td>
+        <td rowspan="1" align="center"><img src="Assets/a.png" width="75%"></td>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Elementary/Corewar">Corewar</a></td>
+        <td align="center">100%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
     </tbody>
 </table>
 
