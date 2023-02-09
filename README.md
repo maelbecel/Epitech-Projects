@@ -310,6 +310,105 @@
     <tr>
         <td colspan="5" align="center" >Second Year</td>
     </tr>
+    <!-- ===========================================  B-PDG-300 ============================================ -->
+    <!--  -->
+    <tr>
+        <td rowspan="19" align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year2/paradigmpool">B-PDG-300</a></td>
+        <td rowspan="19" align="center"><img src="Assets/c.png" width="75%"></td>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year2/paradigmpool/Day01">Day 1</a></td>
+        <td align="center">100%</td>
+        <td align="center"><img src="Assets/haskell.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year2/paradigmpool/Day02">Day 2</a></td>
+        <td align="center">100%</td>
+        <td align="center"><img src="Assets/haskell.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year2/paradigmpool/Day03">Day 3</a></td>
+        <td align="center">100%</td>
+        <td align="center"><img src="Assets/haskell.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year2/paradigmpool/Day04_am">Day 4 AM</a></td>
+        <td align="center">83.3%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year2/paradigmpool/Day04_pm">Day 4 PM</a></td>
+        <td align="center">0%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year2/paradigmpool/Day05">Day 5</a></td>
+        <td align="center">41.2%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year2/paradigmpool/Day06">Day 6</a></td>
+        <td align="center">100%</td>
+        <td align="center"><img src="Assets/cpp.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year2/paradigmpool/Day07_am">Day 7 AM</a></td>
+        <td align="center">100%</td>
+        <td align="center"><img src="Assets/cpp.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year2/paradigmpool/Day07_pm">Day 7 PM</a></td>
+        <td align="center">40%</td>
+        <td align="center"><img src="Assets/cpp.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year2/paradigmpool/Day08">Day 8</a></td>
+        <td align="center">16.7%</td>
+        <td align="center"><img src="Assets/cpp.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year2/paradigmpool/Day09">Day 9</a></td>
+        <td align="center">100%</td>
+        <td align="center"><img src="Assets/cpp.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year2/paradigmpool/Day10">Day 10</a></td>
+        <td align="center">42.9%</td>
+        <td align="center"><img src="Assets/cpp.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year2/paradigmpool/Day11">Day 11</a></td>
+        <td align="center">42.9%</td>
+        <td align="center"><img src="Assets/cpp.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year2/paradigmpool/Day12">Day 12</a></td>
+        <td align="center">100%</td>
+        <td align="center"><img src="Assets/cpp.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year2/paradigmpool/Day13">Day 13</a></td>
+        <td align="center">62.5%</td>
+        <td align="center"><img src="Assets/cpp.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year2/paradigmpool/Rush1">Rush 1</a></td>
+        <td align="center">92.9%</td>
+        <td align="center"><img src="Assets/haskell.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year2/paradigmpool/Rush2">Rush 2</a></td>
+        <td align="center">100%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year2/paradigmpool/Rush3">Rush 3</a></td>
+        <td align="center">100%</td>
+        <td align="center"><img src="Assets/cpp.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year2/paradigmpool/Garrasi">Garrasi</a></td>
+        <td align="center">100%</td>
+        <td align="center"><img src="Assets/vue.png" width="10%" > <img src="Assets/node.png" width="15%" ></td>
+    </tr>
     </tbody>
 </table>
 
