@@ -24,7 +24,7 @@
     <!--  -->
     <tr>
         <td rowspan="16" align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Cpool%20part1">B-CPE-100</a></td>
-        <td rowspan="16" align="center"><img src="Assets/b.png" width="25%"></td>
+        <td rowspan="16" align="center"><img src="Assets/b.png" width="75%"></td>
         <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Cpool%20part1/Day1">Day 1</a></td>
         <td align="center">100%</td>
         <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
@@ -109,7 +109,7 @@
     <!--  -->
     <tr>
         <td rowspan="4" align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Cpool%20part2">B-CPE-101</a></td>
-        <td rowspan="4" align="center"><img src="Assets/c.png" width="25%"></td>
+        <td rowspan="4" align="center"><img src="Assets/c.png" width="75%"></td>
         <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Cpool%20part2/Final_Stumper">Final Stumper</a></td>
         <td align="center">90%</td>
         <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
@@ -134,7 +134,7 @@
     <!--  -->
     <tr>
         <td rowspan="2" align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/DevOps">B-DOP-200</a></td>
-        <td rowspan="2" align="center"><img src="Assets/b.png" width="25%"></td>
+        <td rowspan="2" align="center"><img src="Assets/b.png" width="75%"></td>
         <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/DevOps/Chocolatine">Chocolatine</a></td>
         <td align="center">90%</td>
         <td align="center"><img src="Assets/git.png" width="10%" ></td>
