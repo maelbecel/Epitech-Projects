@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/mbecel/delivery/Lib'
+make: Leaving directory '/home/mbecel/delivery/Lib'
+ 
+make: *** No rule to make target 'src/main.o', needed by 'a.out'.
+

@@ -1,0 +1,12 @@
+#!/bin/bash
+
+if [ -z "$1" ]; then
+    sudo echo && cd build && cmake .. && sudo make install && make && echo "SUCCESS" || echo "FAILED"
+elif [ "$1" == "clean" ]; then
+    make -C build clean
+elif [ "$1" == "fclean" ]; then
+    make -C build clean
+    rm -rf build/*
+else
+    echo "make: *** No rule to make target '$1'.  Stop."
+fi

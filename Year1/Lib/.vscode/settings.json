@@ -1,0 +1,12 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "stdarg.h": "c",
+        "parser.h": "c",
+        "unistd.h": "c",
+        "formatstring.h": "c",
+        "stdlib.h": "c",
+        "stat.h": "c"
+    },
+    "docwriter.style": "Doxygen"
+}
