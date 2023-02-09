@@ -256,6 +256,60 @@
         <td align="center">67.4%</td>
         <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
     </tr>
+    <!-- ===========================================  B-PSU-100 ============================================ -->
+    <!--  -->
+    <tr>
+        <td rowspan="2" align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Unix">B-PSU-100</a></td>
+        <td rowspan="2" align="center"><img src="Assets/a.png" width="75%"></td>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Unix/my_printf">MyPrintf</a></td>
+        <td align="center">38.6%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Unix/my_ls">MyLs</a></td>
+        <td align="center">57.9%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <!-- ===========================================  B-PSU-101 ============================================ -->
+    <!--  -->
+    <tr>
+        <td rowspan="2" align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Unix">B-PSU-101</a></td>
+        <td rowspan="2" align="center"><img src="Assets/c.png" width="75%"></td>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Unix/navy">Navy</a></td>
+        <td align="center">44.2%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Unix/minishell1">Minishell 1</a></td>
+        <td align="center">52.9%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <!-- ===========================================  B-PSU-200 ============================================ -->
+    <!--  -->
+    <tr>
+        <td rowspan="2" align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Unix">B-PSU-200</a></td>
+        <td rowspan="2" align="center"><img src="Assets/d.png" width="75%"></td>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Unix/tetris">Tetris</a></td>
+        <td align="center">29%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Unix/my_sokoban">MySokoban</a></td>
+        <td align="center">88.9%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <!-- ===========================================  B-PSU-210 ============================================ -->
+    <!--  -->
+    <tr>
+        <td rowspan="2" align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Unix">B-PSU-210</a></td>
+        <td rowspan="2" align="center"><img src="Assets/d.png" width="75%"></td>
+        <td align="center"><a href="https://github.com/maelbecel/Epitech-Projects/tree/main/Year1/Unix/minishell2">Minishell 2</a></td>
+        <td align="center">57,5%</td>
+        <td align="center"><img src="Assets/lang_C.png" width="10%" ></td>
+    </tr>
+    <tr>
+        <td colspan="5" align="center" >Second Year</td>
+    </tr>
     </tbody>
 </table>
 

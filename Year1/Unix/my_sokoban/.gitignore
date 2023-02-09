@@ -1,0 +1,7 @@
+*.o
+*.a
+*~
+#*#
+*vgcore*
+.vscode
+my_sokoban
